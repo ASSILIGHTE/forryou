@@ -528,8 +528,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const polaroidData = [
     { caption: "First Smile 🥺", subtext: "Setiap liat foto senyuman kamu dari layar HP, hariku langsung terasa cerah & bahagia!" },
     { caption: "Cutest Boy 👑", subtext: "Foto ketampanan kamu yang selalu sukses bikin aku senyum-senyum sendiri seharian." },
-    { caption: "My Safe Place 🏡", subtext: "Walau terpisah jarak, kehadiran kamu selalu terasa dekat banget di hatiku." },
-    { caption: "Virtual Date Night 🍿", subtext: "Kapan-kapan foto berduanya kita ganti pas udah ketemu langsung ya sayang!" },
+    { caption: "My Favorite View 🏡", subtext: "Pemandangan favorit yang nggak pernah bikin bosen, walau cuma bisa liat dari jauh." },
+    { caption: "Sweetest Smile ✨", subtext: "Alasan utama kenapa aku selalu senyum sendiri setiap kali ngeliat foto kamu." },
     { caption: "Pure Happiness 🥰", subtext: "Nggak ada yang bisa nandingin rasa nyaman & bahagianya aku pas vcall sama kamu." },
     { caption: "My Favorite Boy 💖", subtext: "Kamu bakal selalu jadi pacar favorit nomor 1 di seluruh dunia selamanya!" }
   ];
