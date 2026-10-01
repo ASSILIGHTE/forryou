@@ -403,7 +403,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // ------------------------------------------------------------------------
   // 5. Section 2 — Typewriter Driver Briefing
   // ------------------------------------------------------------------------
-  const typewriterText = "Happy Boyfriend Day ya sayang! Berhubung kita LDR dan belum sempat foto berdua secara langsung, jadi isi website ini 100% foto ketampanan kamu sendiri haha. Tapi gapapa, liat foto kamu senyum aja udah sukses bikin hariku cerah. Makasih ya udah selalu sabar, rajin pap, dan selalu bikin bahagia walau dari jauh 💖✨";
+  const typewriterText = "Happy Boyfriend Day ya sayang! I just want to tell you betapa bersyukurnya aku punya kamu di dalam hidupku. Walaupun kita lagi LDR dan terpisah jarak, senyuman manis kamu di setiap foto selalu sukses bikin hariku terasa hangat dan bahagia. Makasih ya udah selalu sabar, rajin pap, and making me feel so loved every single day 💖✨";
   const typewriterElement = document.getElementById('typewriter-text');
   let hasTyped = false;
 
