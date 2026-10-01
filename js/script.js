@@ -403,7 +403,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // ------------------------------------------------------------------------
   // 5. Section 2 — Typewriter Driver Briefing
   // ------------------------------------------------------------------------
-  const typewriterText = "Happy Boyfriend Day ya sayang! I just want to tell you betapa bersyukurnya aku punya kamu di dalam hidupku. Thank you for always being my comfort zone, selalu sabar hadapin aku, and making me feel so loved every single day 💖✨";
+  const typewriterText = "Happy Boyfriend Day ya sayang! Berhubung kita LDR dan belum sempat foto berdua secara langsung, jadi isi website ini 100% foto ketampanan kamu sendiri haha. Tapi gapapa, liat foto kamu senyum aja udah sukses bikin hariku cerah. Makasih ya udah selalu sabar, rajin pap, dan selalu bikin bahagia walau dari jauh 💖✨";
   const typewriterElement = document.getElementById('typewriter-text');
   let hasTyped = false;
 
@@ -526,12 +526,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalClose = document.getElementById('modal-close');
 
   const polaroidData = [
-    { caption: "First Smile 🥺", subtext: "Every single moment sama kamu itu selalu terasa ajaib, I'm so grateful to have you!" },
-    { caption: "Cutest Boy 👑", subtext: "Senyuman manis kamu tuh beneran selalu sukses brightens up my whole day!" },
-    { caption: "My Safe Place 🏡", subtext: "Kenangan manis ini bakal selalu aku simpan rapi in my heart forever and ever." },
-    { caption: "Our Date Night 🍿", subtext: "Every small date & jalan bareng kamu selalu jadi cerita paling berharga." },
-    { caption: "Pure Happiness 🥰", subtext: "Nggak ada yang bisa nandingin rasa nyaman & bahagianya aku pas lagi bareng sama kamu." },
-    { caption: "My Favorite 💖", subtext: "Kamu bakal selalu jadi my absolute favorite person in the entire world selamanya!" }
+    { caption: "First Smile 🥺", subtext: "Setiap liat foto senyuman kamu dari layar HP, hariku langsung terasa cerah & bahagia!" },
+    { caption: "Cutest Boy 👑", subtext: "Foto ketampanan kamu yang selalu sukses bikin aku senyum-senyum sendiri seharian." },
+    { caption: "My Safe Place 🏡", subtext: "Walau terpisah jarak, kehadiran kamu selalu terasa dekat banget di hatiku." },
+    { caption: "Virtual Date Night 🍿", subtext: "Kapan-kapan foto berduanya kita ganti pas udah ketemu langsung ya sayang!" },
+    { caption: "Pure Happiness 🥰", subtext: "Nggak ada yang bisa nandingin rasa nyaman & bahagianya aku pas vcall sama kamu." },
+    { caption: "My Favorite Boy 💖", subtext: "Kamu bakal selalu jadi pacar favorit nomor 1 di seluruh dunia selamanya!" }
   ];
 
   polaroids.forEach((card, idx) => {
